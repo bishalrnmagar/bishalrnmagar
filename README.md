@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Bishal Rana Magar.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently studying at Softwarica College of IT and E-commerce.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at bishalmagr70@gmail.com
 
 <!---
