@@ -23,7 +23,6 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="26px" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="26px" />
