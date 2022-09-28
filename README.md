@@ -5,7 +5,7 @@
 <br/>
 
 - 🌱 Interested in Full Stack Development and Data Science
-- 📫 How to reach me: [LinkedIn - @rijalanupraj](https://www.linkedin.com/in/bishal-rana-magar-056617205)
+- 📫 How to reach me: [LinkedIn - @bishalranamagar](https://www.linkedin.com/in/bishal-rana-magar-056617205)
 - ⚡ Other Intereset: [Football, Design, Gaming]
 
 ### Languages and Tools:
@@ -25,6 +25,11 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px" />
+          
           
 <br/>
 
