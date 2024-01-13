@@ -35,14 +35,14 @@
 ### GitHub Stats:
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mrwhitehat07&theme=dark&hide_border=true" width = 600>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=bishalrnmagar&theme=dark&hide_border=true" width = 600>
 </p>
 
 <br>
 <div align = "center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=mrwhitehat07&theme=dracula">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=bishalrnmagar&theme=dracula">
 </div>
 
-<img align="left" alt="Bishal Rana Magar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrwhitehat07&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Bishal Rana Magar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bishalrnmagar&show_icons=true&hide_border=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhitehat07&layout=compact)](https://github.com/mrwhitehat07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalrnmagar&layout=compact)](https://github.com/bishalrnmagar)
